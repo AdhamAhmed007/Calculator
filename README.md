@@ -8,7 +8,7 @@ A clean, functional calculator web app built with **vanilla HTML, CSS, and JavaS
 
 ## 🖼️ Preview
 
-![Calculator preview](preview.png)
+![Calculator preview](./preview.png)
 
 ---
 
